@@ -1,0 +1,115 @@
+/* styles.css */
+body{
+    background-color: hsl(0, 0%, 8%);
+}
+
+@font-face {
+    font-family: 'MyInterBold';
+    src: url('/social-links-profile-main/assets/fonts/static/Inter-Bold.ttf') format('truetype');
+}
+
+.p1 {
+    font-family: 'MyInterBold', sans-serif;
+    /* Fallback to a generic sans-serif font if 'MyInterBold' is not available */
+    font-size: larger;
+    color: aliceblue;
+}
+
+@font-face {
+    font-family: 'MySemiBold';
+    src: url('/social-links-profile-main/assets/fonts/static/Inter-SemiBold.ttf') format('truetype');
+}
+
+.p2 {
+    font-family: 'MySemiBold', sans-serif;
+    /* Fallback to a generic sans-serif font if 'MyInterBold' is not available */
+    font-size: medium;
+    color:  hsl(75, 94%, 57%);
+    font-size: small;
+}
+
+@font-face {
+    font-family: 'MyInterRegular';
+    src: url('/social-links-profile-main/assets/fonts/Inter-VariableFont_slnt\,wght.ttf') format('ttf');
+    /* Add more font formats (e.g., woff, ttf) for better browser compatibility */
+}
+
+.p3 {
+    font-family: 'MyInterRegular', sans-serif;
+    color: darkgrey;
+    font-size: smaller;
+}
+
+img{
+    width: 100px;
+    border-radius: 50px;
+    margin-top: 16px;
+}
+
+.container
+{
+    
+    width: 300px;
+    height: 525px;
+    border-radius: 20px;
+    margin-top: 80px;
+    padding: 10px;
+    padding-bottom: 10px;
+    background-color: hsla(0, 0%, 20%, 0.555);
+}
+
+.p4{
+    color: aliceblue;
+    font-family: 'MySemiBold', sans-serif;
+    width: 250px;
+    height: 30px;
+    border-radius: 5px;
+    padding-top: 6px;
+    display: flex;
+    justify-content: center;
+    background-color: hsl(0, 0%, 20%);
+}
+.p5{
+    color: aliceblue;
+    font-family: 'MySemiBold', sans-serif;
+    width: 250px;
+    height: 30px;
+    padding-top: 6px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    background-color: hsl(0, 0%, 20%);
+}
+.p6{
+    color: aliceblue;
+    font-family: 'MySemiBold', sans-serif;
+    width: 250px;
+    height: 30px;
+    padding-top: 6px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    background-color: hsl(0, 0%, 20%);
+}
+.p7{
+    color: aliceblue;
+    font-family: 'MySemiBold', sans-serif;
+    width: 250px;
+    height: 30px;
+    padding-top: 6px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    background-color: hsl(0, 0%, 20%);
+}
+.p8{
+    color: aliceblue;
+    font-family: 'MySemiBold', sans-serif;
+    width: 250px;
+    height: 30px;
+    border-radius: 5px;
+    padding-top: 6px;
+    display: flex;
+    justify-content: center;
+    background-color: hsl(0, 0%, 20%);
+}
