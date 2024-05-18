@@ -5,7 +5,7 @@ body{
 
 @font-face {
     font-family: 'MyInterBold';
-    src: url('/social-links-profile-main/assets/fonts/static/Inter-Bold.ttf') format('truetype');
+    src: url('/assets/fonts/static/Inter-Bold.ttf') format('truetype');
 }
 
 .p1 {
@@ -17,7 +17,7 @@ body{
 
 @font-face {
     font-family: 'MySemiBold';
-    src: url('/social-links-profile-main/assets/fonts/static/Inter-SemiBold.ttf') format('truetype');
+    src: url('/assets/fonts/static/Inter-SemiBold.ttf') format('truetype');
 }
 
 .p2 {
@@ -30,7 +30,7 @@ body{
 
 @font-face {
     font-family: 'MyInterRegular';
-    src: url('/social-links-profile-main/assets/fonts/Inter-VariableFont_slnt\,wght.ttf') format('ttf');
+    src: url('/assets/fonts/Inter-VariableFont_slnt\,wght.ttf') format('ttf');
     /* Add more font formats (e.g., woff, ttf) for better browser compatibility */
 }
 
